@@ -92,6 +92,17 @@ body{
     background-image: url('../images/burger.jpg');
 }
 
+#aboutsection{
+    padding: 40px 0;
+    background-color: var(--bg1);
+}
+
+
+.about-div{
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 0 3px 3px #aaa;
+}
 .tint{
     position: absolute;
     left: 0;
@@ -157,5 +168,9 @@ body{
     font-weight: 700;
 }
 .carousel-img{
+    height: 45vh;
+}
+
+.banner-img{
     height: 45vh;
 }
